@@ -1,2 +1,2 @@
 # MemeBot
-A python open-source bot for various social media platforms.
+Python Meme Bots for various social media platforms.
