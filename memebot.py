@@ -9,9 +9,11 @@ isExist = os.path.exists("config")
 if isExist:
     shutil.rmtree("config", ignore_errors=True)
 
+# Credentials for your Instagram Account
+PASS = open("password.txt", "r").read()
 #instagram login
 bot = Bot()
-bot.login (username = "pythonmemebot", password = "Hacker4ever@0112358")
+bot.login (username = "pythonmemebot", password = PASS)
 
 async def get_post_meme():
     tags_for_post = ["#meme", "#memes", "#funny", "#dankmemes", "#memesdaily", "#funnymemes", "#lol", "#follow", "#humor", "#like", "#dank", "#love", "#instagram", "#memepage", "#dankmeme", "#tiktok", "#comedy", "#lmao", "#fun", "#anime", "#lol", "#dailymemes", "#edgymemes", "#offensivememes", "#memestagram", "#bhfyp", "#instagood", "#funnymeme", "#memer",
