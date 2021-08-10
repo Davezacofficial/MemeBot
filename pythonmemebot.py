@@ -57,6 +57,10 @@ async def get_post_meme():
             img = Image.open('meme'+file_ext)
             img.save(f'meme.jpg')
             bot.upload_photo('meme.jpg',caption = f'{title}' + f"\nUpvotes: {ups} 👍" + "\nImage Credits: Dank Memes 📷" "\n \n \n" + tagstring)
+            
+        elif file_ext == 'gif'"
+            print("ERROR | Can't Upload a GIF")
+            
         else:
             bot.upload_photo(f'meme{file_ext}',caption = f'{title}' + f"\nUpvotes: {ups} 👍" + "\nImage Credits: Dank Memes 📷" "\n \n \n" + tagstring)
     
