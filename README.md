@@ -37,8 +37,8 @@ Image Credits: Dank Memes 📷
  time.sleep(1800)
 ```
 
-- Voila! And you're good to go, this is what the final results looks like:
-
+- Voila! You made yourselves a Instagram MemeBot using Python
+- 
 ![finalresult](https://user-images.githubusercontent.com/83908831/128918920-2b6d2afe-fa4c-4d17-9019-dbf5e2446607.jpg)
 
 
