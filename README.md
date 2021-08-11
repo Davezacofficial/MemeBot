@@ -25,7 +25,7 @@ async def get_post_meme():
 ```py
 bot.upload_photo('meme.jpg',caption = f'{title}' + f"\nUpvotes: {ups} 👍" + "\nImage Credits: Dank Memes 📷" "\n \n \n" + tagstring)
 ```
-The above line would give you a random caption, this is an example 👇
+The above line would give you a random caption based on the image in this format 👇
 ```
 He's too smart to be kept alive
 Upvotes: 69361 👍
