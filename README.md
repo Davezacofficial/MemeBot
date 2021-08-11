@@ -14,7 +14,7 @@ It works by finding the **most upvoted** meme on the [dankmemes](https://www.red
 bot = Bot()
 bot.login (username = "pythonmemebot", password = PASS)
 ```
-- You can alter the hashtags used along with your post
+- You can alter the hashtags to your desiring: 
 ```py
 async def get_post_meme():
     tags_for_post = ["#meme", "#memes", "#funny", "#dankmemes", "#memesdaily", "#funnymemes", "#lol", "#follow", "#humor", "#like", "#dank", "#love", "#instagram", "#memepage", "#dankmeme", "#tiktok", "#comedy", "#lmao", "#fun", "#anime", "#lol", "#dailymemes", "#edgymemes", "#offensivememes", "#memestagram", "#bhfyp", "#instagood", "#funnymeme", "#memer",
