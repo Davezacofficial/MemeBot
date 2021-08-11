@@ -5,7 +5,7 @@ This program relies on **instabot** library which is neither affiliated or spons
 And please disable `two-factor authentication` before running this programm otherwise you will run it some errors.
 
 ### Working ⚙
-It works by finding the **most upvoted** meme on the [dankmemes](https://www.reddit.com/r/dankmemes/) page, downloads it and then posts it on your page along with defined captions and random hashtags. Since *instabot* can only post files with the `.jpg` or `.jpeg` extensions and a square image with the dimensions of `1080x1080` therefore images the program utilizes **Pillow** to convert and resize the images into the desired format and thereafter posts it. Since it's an unoffical API, it works by making requests as a phone 📱 by altering the headers with which it makes the requests.
+It works by finding the **most upvoted** meme on the [dankmemes](https://www.reddit.com/r/dankmemes/) page, downloads it and then posts it on your page along with defined captions and random hashtags. Since *instabot* can only post files with the `.jpg` or `.jpeg` extensions and a square image with the dimensions of `1080x1080` therefore the program utilizes **Pillow** to convert and resize the images into the desired format and thereafter posts it. Since it's an unoffical API, it works by making requests as a phone 📱 by altering the headers with which it makes the requests.
 
 ### Steps 
 
