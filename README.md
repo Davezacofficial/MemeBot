@@ -18,7 +18,7 @@ bot.login (username = "pythonmemebot", password = PASS)
 ```py
 async def get_post_meme():
     tags_for_post = ["#meme", "#memes", "#funny", "#dankmemes", "#memesdaily", "#funnymemes", "#lol", "#follow", "#humor", "#like", "#dank", "#love", "#instagram", "#memepage", "#dankmeme", "#tiktok", "#comedy", "#lmao", "#fun", "#anime", "#lol", "#dailymemes", "#edgymemes", "#offensivememes", "#memestagram", "#bhfyp", "#instagood", "#funnymeme", "#memer",
-                     "#reddit", "#shitpost", "#funnyvideos", "#explorepage", "#followforfollowback", "#jokes", "#viral", "#haha", "#likeforlikes", "#art", "#f", "#youtube", "#memesespa" "#memeita", "#explore", "#gaming", "#covid", "#minecraft", "#likes", "#memez", "#laugh", "#followme", "#edgy", "#trending", "#life", "#music", "#india", "#dankmemesdaily", 
+                     "#reddit", "#shitpost", "#funnyvideos", "#explorepage", "#followforfollowback", "#jokes", "#viral", "#haha", "#likeforlikes", "#art", "#f", "#youtube", "#memesespa" "#memeita", "#explore", "#gaming", "#covid", "#minecraft", "#likes", "#memez", "#laugh", "#followme", "#edgy", "#trending", "#life", "#music", "#dankmemesdaily", 
                      "#gamer", "#cute"]
 ```
 - You can also replace the caption used along with your posts:
