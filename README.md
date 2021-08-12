@@ -43,6 +43,11 @@ Image Credits: Dank Memes 📷
 
 
 ## MemeBot for Telegram
+There are two ways of making a meme bot for telegram. One by using the link and other through the 
+
+
+
+
 
 ![image](https://user-images.githubusercontent.com/83908831/129042820-c8f5a251-587a-4372-81ff-d20b4edaa3b1.png)
 
