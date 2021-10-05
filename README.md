@@ -42,7 +42,7 @@ Image Credits: Dank Memes 📷
 ![finalresult](https://user-images.githubusercontent.com/83908831/128918920-2b6d2afe-fa4c-4d17-9019-dbf5e2446607.jpg)
 
 
-## MemeBot for Telegram
+## MemeBot for Telegram | WhatsApp
 
 
 ![Under Construction](https://user-images.githubusercontent.com/83908831/136057476-6eb2da72-3401-4c2c-92cf-047cc1f0545f.png)
