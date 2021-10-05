@@ -9,7 +9,7 @@ It works by finding the **most upvoted** meme on the [dankmemes](https://www.red
 
 ### Steps 
 
-- Replace `pythonmemebot` with the username of IG account you want to use and put your password in *password.txt*
+- Replace `pythonmemebot` with the username of IG account you want to use and put your password in *password.txt*. Here we are putting the password in a separate file to prevent the password from getting leaked. 
 ```py
 bot = Bot()
 bot.login (username = "pythonmemebot", password = PASS)
