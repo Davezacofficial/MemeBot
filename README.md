@@ -43,12 +43,10 @@ Image Credits: Dank Memes 📷
 
 
 ## MemeBot for Telegram
-Under Construction 👨‍🏭
 
 
+![Under Construction](https://user-images.githubusercontent.com/83908831/136057476-6eb2da72-3401-4c2c-92cf-047cc1f0545f.png)
 
 
-
-![image](https://user-images.githubusercontent.com/83908831/136057203-df9d567c-0ede-4b09-a383-2f6f51ea8eb2.png)
 
 
